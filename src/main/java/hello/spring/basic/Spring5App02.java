@@ -20,7 +20,7 @@ public class Spring5App02 {
         Spring5Bean02 app02 = new Spring5Bean02();
         app02.sayHelloKor("스프링5!!");
         app02.sayHelloEng("Spring5!!");
-        app02.sayHelloJpn("こんにちは!!");
+        app02.sayHelloJpn("スプリング!!");
 
     }
 
